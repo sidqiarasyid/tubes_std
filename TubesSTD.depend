@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1735126676 source:c:\users\sidqi\documents\project-c++\tubesstd\main.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735125525 c:\users\sidqi\documents\project-c++\tubesstd\sosmed.h
+	<iostream>
+
+1735126416 source:c:\users\sidqi\documents\project-c++\tubesstd\sosmed.cpp
+	"Sosmed.h"
+
+1735137811 source:c:\users\syahd\downloads\tubesstd\main.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735137505 c:\users\syahd\downloads\tubesstd\sosmed.h
+	<iostream>
+
+1735139527 source:c:\users\sidqi\documents\project-c++\tubesstd_revisi(error)[1]\tubesstd\main.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735186295 c:\users\sidqi\documents\project-c++\tubesstd_revisi(error)[1]\tubesstd\sosmed.h
+	<iostream>
+
+1735187463 source:c:\users\sidqi\documents\project-c++\tubesstd_revisi(error)[1]\tubesstd\sosmed.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735139527 source:c:\users\syahd\downloads\tubesstd_revisi2(bug)\tubesstd\main.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735186295 c:\users\syahd\downloads\tubesstd_revisi2(bug)\tubesstd\sosmed.h
+	<iostream>
+
+1735306841 source:c:\users\syahd\downloads\tubesstd_revisi2(bug)\tubesstd\sosmed.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735139527 source:c:\users\sidqi\downloads\tubesstd(final)\tubesstd\main.cpp
+	<iostream>
+	"Sosmed.h"
+
+1735186295 c:\users\sidqi\downloads\tubesstd(final)\tubesstd\sosmed.h
+	<iostream>
+
+1735306841 source:c:\users\sidqi\downloads\tubesstd(final)\tubesstd\sosmed.cpp
+	<iostream>
+	"Sosmed.h"
+
